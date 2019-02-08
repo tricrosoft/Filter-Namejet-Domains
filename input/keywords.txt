@@ -1,0 +1,15 @@
+data
+soft
+dev
+php
+java
+asp
+code
+script
+artificial
+intelligence
+bot
+analytic
+consult
+group
+tech
